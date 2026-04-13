@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+ 
+
+  <AssemblyName>Inventario</AssemblyName>
+  <RootNamespace>Inventario</RootNamespace>
+  <Version>1.0.0</Version>
+  <description>Proyecto de gestión de inventario para el curso de Fundamentos de .NET en Platzi.</description>
+ </PropertyGroup>
+</Project>
